@@ -1,8 +1,8 @@
 # Firebase Traffic Routing through Cloudflare API Shield
 
 ## Overview
-a conceptual project that looks to shift Firebase integration and services through a rate limiting service 
---This project demonstrates how to route all Firebase traffic for Storage, Firestore, and Realtime Database through Cloudflare API Shield to implement native client-based rate limiting.--
+A conceptual project that looks to shift Firebase integration and services through a rate limiting service .
+~~This project demonstrates how to route all Firebase traffic for Storage, Firestore, and Realtime Database through Cloudflare API Shield to implement native client-based rate limiting.~~
 
 ## Table of Contents
 
